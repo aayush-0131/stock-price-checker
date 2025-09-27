@@ -49,7 +49,6 @@ Run the script from your terminal, passing the stock ticker as an argument.
 python main.py <TICKER_SYMBOL>
 
 Example
-Bash
 
 python main.py GOOGL
 Example Output:
