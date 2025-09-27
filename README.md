@@ -12,7 +12,7 @@ A simple Python script to fetch the latest stock price for a given ticker symbol
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone <https://github.com/aayush-0131/stock-price-checker.git>
     cd stock-price-checker
     ```
 
